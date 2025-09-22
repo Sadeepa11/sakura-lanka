@@ -1,0 +1,66 @@
+{
+  "Nav": {
+    "home": "Home",
+    "vehicles": "Vehicles",
+    "bikes": "Bikes",
+    "electronics": "Computers & Phones",
+    "visa": "Visa",
+    "jobs": "Jobs",
+    "admin": "Admin"
+  },
+  "Hero": {
+    "title": "Everything on wheels & visas — one place",
+    "subtitle": "Vehicles, bikes, computers & phones. Visa & job consulting.",
+    "ctaBrowseVehicles": "Browse Vehicles",
+    "ctaVisaServices": "Visa Services"
+  },
+  "Home": {
+    "shopByCategory": "Shop by Category",
+    "shopByCategorySub": "Vehicles, bikes, computers & phones",
+    "featured": "Featured Items",
+    "featuredSub": "Hand‑picked from vehicles, bikes, and electronics",
+    "services": "Consulting Services",
+    "servicesSub": "Visa consulting and job placements",
+    "explore": "Explore now"
+  },
+  "Pages": {
+    "vehiclesTitle": "Vehicles",
+    "vehiclesSub": "Cars, vans, buses & agriculture vehicles — New, Used, Spare Parts",
+    "bikesTitle": "Bikes",
+    "bikesSub": "Motor bikes, bicycles, mama bikes — New, Used, Spare Parts",
+    "electronicsTitle": "Computers, Phones & Electrical Equipment",
+    "electronicsSub": "New / Used / Spare Parts",
+    "visaTitle": "Visa Consulting",
+    "visaSub": "Job Visa, Student Visa, Tourist Visa",
+    "jobsTitle": "Job Consulting",
+    "jobsSub": "Full-time and Part-time jobs"
+  },
+  "Grid": {
+    "search": "Search...",
+    "allTypes": "All types",
+    "new": "New",
+    "used": "Used",
+    "spare": "Spare Parts",
+    "allSubs": "All sub categories",
+    "showing": "Showing {count} item(s)"
+  },
+  "Labels": {
+    "categories": {
+      "vehicles": "Vehicles",
+      "bikes": "Bikes",
+      "electronics": "Computers & Phones"
+    },
+    "sub": {
+      "car": "Car",
+      "van": "Van",
+      "bus": "Bus",
+      "agriculture": "Agriculture Vehicle",
+      "motorbike": "Motorbike",
+      "bicycle": "Bicycle",
+      "mama-bike": "Scooter",
+      "computer": "Computer",
+      "phone": "Phone",
+      "electrical": "Electrical Equipment"
+    }
+  }
+}

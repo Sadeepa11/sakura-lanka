@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+  --brand: #0E76FD;
+  --brand-dark: #0A57B3;
+  --text: #0f172a;
+  --muted: #64748b;
+  --ring: rgba(14,118,253,.35);
+}
+
+* { -webkit-tap-highlight-color: transparent; }
+a { color: var(--brand); }
+
+.container { @apply max-w-7xl mx-auto px-4; }
+
+.btn { @apply inline-flex items-center justify-center rounded-md px-4 py-2 text-sm font-medium transition; }
+.btn:focus-visible { outline: 2px solid var(--ring); outline-offset: 2px; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}

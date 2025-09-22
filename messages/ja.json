@@ -1,0 +1,66 @@
+{
+  "Nav": {
+    "home": "ホーム",
+    "vehicles": "車両",
+    "bikes": "バイク",
+    "electronics": "パソコン・携帯",
+    "visa": "ビザ",
+    "jobs": "求人",
+    "admin": "管理"
+  },
+  "Hero": {
+    "title": "車・バイク・電子機器とビザ手続きが一か所に",
+    "subtitle": "車両・バイク・パソコン・携帯。ビザと求人コンサルティング。",
+    "ctaBrowseVehicles": "車両を見る",
+    "ctaVisaServices": "ビザサービス"
+  },
+  "Home": {
+    "shopByCategory": "カテゴリーから探す",
+    "shopByCategorySub": "車両・バイク・パソコン・携帯",
+    "featured": "注目商品",
+    "featuredSub": "車・バイク・電子機器のおすすめ",
+    "services": "コンサルティングサービス",
+    "servicesSub": "ビザ手続き・求人支援",
+    "explore": "今すぐ見る"
+  },
+  "Pages": {
+    "vehiclesTitle": "車両",
+    "vehiclesSub": "車・バン・バス・農業車両 — 新品・中古・部品",
+    "bikesTitle": "バイク",
+    "bikesSub": "オートバイ・自転車・スクーター — 新品・中古・部品",
+    "electronicsTitle": "パソコン・携帯・電気機器",
+    "electronicsSub": "新品／中古／部品",
+    "visaTitle": "ビザコンサルティング",
+    "visaSub": "就労ビザ・留学ビザ・観光ビザ",
+    "jobsTitle": "求人コンサルティング",
+    "jobsSub": "正社員・パートタイム求人"
+  },
+  "Grid": {
+    "search": "検索...",
+    "allTypes": "すべての種類",
+    "new": "新品",
+    "used": "中古",
+    "spare": "部品",
+    "allSubs": "すべてのサブカテゴリ",
+    "showing": "{count} 件表示"
+  },
+  "Labels": {
+    "categories": {
+      "vehicles": "車両",
+      "bikes": "バイク",
+      "electronics": "パソコン・携帯"
+    },
+    "sub": {
+      "car": "車",
+      "van": "バン",
+      "bus": "バス",
+      "agriculture": "農業車両",
+      "motorbike": "オートバイ",
+      "bicycle": "自転車",
+      "mama-bike": "スクーター",
+      "computer": "パソコン",
+      "phone": "携帯",
+      "electrical": "電気機器"
+    }
+  }
+}

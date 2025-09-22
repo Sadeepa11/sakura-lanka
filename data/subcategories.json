@@ -1,0 +1,109 @@
+[
+  {
+    "id": "s1",
+    "slug": "car",
+    "title": "Car",
+    "title_ja": "車",
+    "category": "vehicles",
+    "image": "/uploads/subcategories/1758552524934-72e5d8ed-91d7-4153-b6fd-aff204c27535.webp",
+    "order": 1,
+    "enabled": true,
+    "updatedAt": "2025-09-22T14:48:50.479Z"
+  },
+  {
+    "id": "s2",
+    "slug": "van",
+    "title": "Van",
+    "title_ja": "バン",
+    "category": "vehicles",
+    "image": "/uploads/subcategories/1758552632442-a92d53a9-d1f8-4f22-914b-f273863fb516.webp",
+    "order": 2,
+    "enabled": true,
+    "updatedAt": "2025-09-22T14:50:33.962Z"
+  },
+  {
+    "id": "s3",
+    "slug": "bus",
+    "title": "Bus",
+    "title_ja": "バス",
+    "category": "vehicles",
+    "image": "/uploads/subcategories/1758552664476-1ddb87d7-09ad-47ad-99fe-a8aadf770d85.webp",
+    "order": 3,
+    "enabled": true,
+    "updatedAt": "2025-09-22T14:51:05.718Z"
+  },
+  {
+    "id": "s4",
+    "slug": "agriculture",
+    "title": "Agriculture Vehicle",
+    "title_ja": "農業車両",
+    "category": "vehicles",
+    "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?auto=format&fit=crop&w=1200&q=60",
+    "order": 4,
+    "enabled": true
+  },
+  {
+    "id": "s5",
+    "slug": "motorbike",
+    "title": "Motorbike",
+    "title_ja": "オートバイ",
+    "category": "bikes",
+    "image": "/uploads/subcategories/1758552706397-5a71246f-d37e-4c76-8f5c-251811c7f2e9.jpg",
+    "order": 1,
+    "enabled": true,
+    "updatedAt": "2025-09-22T14:51:47.815Z"
+  },
+  {
+    "id": "s6",
+    "slug": "bicycle",
+    "title": "Bicycle",
+    "title_ja": "自転車",
+    "category": "bikes",
+    "image": "/uploads/subcategories/1758552748691-e3fcac8f-e8ea-4c61-b547-8c859f676648.webp",
+    "order": 2,
+    "enabled": true,
+    "updatedAt": "2025-09-22T14:52:29.615Z"
+  },
+  {
+    "id": "s7",
+    "slug": "mama-bike",
+    "title": "Scooter",
+    "title_ja": "スクーター",
+    "category": "bikes",
+    "image": "/uploads/subcategories/1758552800145-2c028e3d-b69c-411a-81e8-af9e43e9f6ec.jpg",
+    "order": 3,
+    "enabled": true,
+    "updatedAt": "2025-09-22T14:53:21.505Z"
+  },
+  {
+    "id": "s8",
+    "slug": "computer",
+    "title": "Computer",
+    "title_ja": "パソコン",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=60",
+    "order": 1,
+    "enabled": true
+  },
+  {
+    "id": "s9",
+    "slug": "phone",
+    "title": "Phone",
+    "title_ja": "携帯",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=60",
+    "order": 2,
+    "enabled": true
+  },
+  {
+    "id": "s10",
+    "slug": "electrical",
+    "title": "Electrical Equipment",
+    "title_ja": "電気機器",
+    "category": "electronics",
+    "image": "/uploads/subcategories/1758552894377-9554f9f1-ed76-40f2-96b5-30eaa5bd7105.jpg",
+    "order": 3,
+    "enabled": true,
+    "updatedAt": "2025-09-22T14:54:55.513Z"
+  }
+]

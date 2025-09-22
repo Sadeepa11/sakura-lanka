@@ -1,0 +1,26 @@
+[
+  {
+    "id": "b1",
+    "title": "Find your next vehicle",
+    "title_ja": "次の車を見つけよう",
+    "subtitle": "Cars, vans, buses & agriculture",
+    "subtitle_ja": "車・バン・バス・農業車両",
+    "image": "/uploads/banners/1758562446102-9125a20d-29c0-469f-9af6-11d2691cd30f.jpg",
+    "link": "/vehicles",
+    "order": 1,
+    "enabled": true,
+    "updatedAt": "2025-09-22T17:34:09.288Z"
+  },
+  {
+    "id": "b2",
+    "title": "Bikes and scooters for the city",
+    "title_ja": "街乗りに最適なバイク・スクーター",
+    "subtitle": "Motorbikes, bicycles, mama-bikes",
+    "subtitle_ja": "オートバイ・自転車・スクーター",
+    "image": "/uploads/banners/1758562510233-9683840a-2a6f-49ed-abe7-761dea9de3fe.jpg",
+    "link": "/bikes",
+    "order": 2,
+    "enabled": true,
+    "updatedAt": "2025-09-22T17:35:11.651Z"
+  }
+]

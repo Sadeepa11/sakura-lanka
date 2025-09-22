@@ -1,0 +1,80 @@
+[
+  {
+    "id": "j101",
+    "title": "Sales Executive (Automotive)",
+    "title_ja": "営業担当（自動車）",
+    "type": "Full-time",
+    "location": "Tokyo",
+    "location_ja": "東京",
+    "salary": "USD 260 + incentives",
+    "image": "/uploads/jobs/1758554391451-b0730696-2b3a-4c46-a1df-c19b16df4e41.webp",
+    "description": "Join our sales team for vehicles and bikes. Meet monthly targets and maintain customer relationships.",
+    "description_ja": "車・バイクの営業。月次目標達成と顧客対応を担当。",
+    "updatedAt": "2025-09-22T16:45:00.000Z"
+  },
+  {
+    "id": "j102",
+    "title": "Motorbike Mechanic",
+    "title_ja": "オートバイ整備士",
+    "type": "Full-time",
+    "location": "Osaka",
+    "location_ja": "大阪",
+    "salary": "USD 230 - 300",
+    "image": "/uploads/jobs/1758554429105-f600d240-8784-45c0-aaf5-e50c0b536eac.webp",
+    "description": "Service and repair 100–250cc bikes. Basic tools knowledge required. Training provided.",
+    "description_ja": "100〜250ccバイクの点検・整備・修理。基本的な工具知識が必要。研修あり。",
+    "updatedAt": "2025-09-22T16:45:00.000Z"
+  },
+  {
+    "id": "j103",
+    "title": "Visa Consultant (Part-time)",
+    "title_ja": "ビザコンサルタント（パート）",
+    "type": "Part-time",
+    "location": "Remote (Japan)",
+    "location_ja": "リモート（日本）",
+    "salary": "USD 200 - 350 (part-time)",
+    "image": "/uploads/jobs/1758554465982-23af70d2-f32d-4137-9e8e-dd6a1a05015f.jpg",
+    "description": "Guide clients on student/tourist visa files, checklists, and appointments. Flexible hours.",
+    "description_ja": "留学・観光ビザの書類作成、チェックリスト、予約支援。柔軟な勤務時間。",
+    "updatedAt": "2025-09-22T16:45:00.000Z"
+  },
+  {
+    "id": "j104",
+    "title": "Warehouse Assistant",
+    "title_ja": "倉庫アシスタント",
+    "type": "Full-time",
+    "location": "Yokohama",
+    "location_ja": "横浜",
+    "salary": "USD 180 - 220",
+    "image": "/uploads/jobs/1758554503726-f58142eb-e2cc-4649-81dc-3711f62febd5.webp",
+    "description": "Handle goods receiving, binning, packing, and dispatch for parts and accessories.",
+    "description_ja": "部品・アクセサリーの入荷受け入れ、棚入れ、梱包、出荷を担当。",
+    "updatedAt": "2025-09-22T16:45:00.000Z"
+  },
+  {
+    "id": "j105",
+    "title": "Customer Support (EN/JA)",
+    "title_ja": "カスタマーサポート（日英）",
+    "type": "Full-time",
+    "location": "Fukuoka",
+    "location_ja": "福岡",
+    "salary": "USD 280 - 370",
+    "image": "/uploads/jobs/1758554549152-733ccbc0-5ff6-47e1-8ae1-a5adab6c48ef.jpg",
+    "description": "Answer calls and messages, create quotations, and coordinate orders in English and Japanese.",
+    "description_ja": "電話・メッセージ対応、見積作成、日英での受注調整。",
+    "updatedAt": "2025-09-22T16:45:00.000Z"
+  },
+  {
+    "id": "j106",
+    "title": "Electrical Technician",
+    "title_ja": "電気技術者",
+    "type": "Full-time",
+    "location": "Nagoya",
+    "location_ja": "名古屋",
+    "salary": "USD 300 - 400",
+    "image": "/uploads/jobs/1758554629588-1eadb598-fcea-4ec7-8a8a-5e82ce403fce.jpg",
+    "description": "Install and maintain generators and UPS systems. Field visits included.",
+    "description_ja": "発電機やUPSの設置・保守。現場対応あり。",
+    "updatedAt": "2025-09-22T16:45:00.000Z"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "v101",
+    "title": "Job Visa Processing",
+    "title_ja": "就労ビザ手続き",
+    "type": "job-visa",
+    "priceFrom": 200,
+    "currency": "USD",
+    "image": "/uploads/visas/1758554093223-5dc57fd8-d137-4fdb-af18-764ef7319d78.webp",
+    "description": "Work permits and job visa support for UAE, Qatar, Romania, Canada and more.",
+    "description_ja": "UAE・カタール・ルーマニア・カナダ等の就労ビザ支援。",
+    "updatedAt": "2025-09-22T16:55:00.000Z"
+  },
+  {
+    "id": "v102",
+    "title": "Student Visa Guidance",
+    "title_ja": "留学ビザサポート",
+    "type": "student-visa",
+    "priceFrom": 250,
+    "currency": "USD",
+    "image": "/uploads/visas/1758554163128-f4b0d4d5-ae3d-4dda-8fc6-7ad3dad49da0.jpeg",
+    "description": "Admissions, SOP editing, and visa file prep for UK, Australia, Canada.",
+    "description_ja": "英国・豪州・カナダの出願、SOP添削、ビザ書類準備まで。",
+    "updatedAt": "2025-09-22T16:55:00.000Z"
+  },
+  {
+    "id": "v103",
+    "title": "Tourist Visa Assistance",
+    "title_ja": "観光ビザサポート",
+    "type": "tourist-visa",
+    "priceFrom": 100,
+    "currency": "USD",
+    "image": "/uploads/visas/1758554208020-50a4af9c-e12c-4548-8513-fcdc05d8d477.webp",
+    "description": "Quick and reliable tourist visa help with itinerary, insurance, and bookings.",
+    "description_ja": "旅程・保険・予約を含む迅速で信頼できる観光ビザ支援。",
+    "updatedAt": "2025-09-22T16:55:00.000Z"
+  }
+]

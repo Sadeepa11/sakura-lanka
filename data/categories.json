@@ -1,0 +1,31 @@
+[
+  {
+    "id": "c1",
+    "slug": "vehicles",
+    "title": "Vehicles",
+    "title_ja": "車両",
+    "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1200&q=60",
+    "order": 1,
+    "enabled": true
+  },
+  {
+    "id": "c2",
+    "slug": "bikes",
+    "title": "Bikes",
+    "title_ja": "バイク",
+    "image": "/uploads/categories/1758552368713-eb936a90-efb8-4f95-8228-7dd1f5b90490.jpg",
+    "order": 2,
+    "enabled": true,
+    "updatedAt": "2025-09-22T14:46:13.464Z"
+  },
+  {
+    "id": "c3",
+    "slug": "electronics",
+    "title": "Computers & Phones",
+    "title_ja": "パソコン・携帯",
+    "image": "/uploads/categories/1758552413214-1c93d0dd-47c1-4243-9208-605394d923d5.jpg",
+    "order": 3,
+    "enabled": true,
+    "updatedAt": "2025-09-22T14:46:54.851Z"
+  }
+]
