@@ -1,4 +1,4 @@
-import LocaleLink from '@/components/LocaleLink';
+import LocaleLink from './LocaleLink';
 
 export default function Footer() {
   return (

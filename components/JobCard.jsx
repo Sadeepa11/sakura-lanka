@@ -1,5 +1,6 @@
 'use client';
-import {useI18n} from '@/components/I18nProvider';
+
+import {useI18n} from './I18nProvider'; 
 
 export default function JobCard({job}) {
   const {locale} = useI18n();

@@ -1,6 +1,6 @@
 'use client';
-import {useI18n} from '@/components/I18nProvider';
-import LocaleLink from '@/components/LocaleLink';
+import {useI18n} from './I18nProvider';
+import LocaleLink from './LocaleLink';
 import Button from './ui/Button';
 
 export default function Hero() {

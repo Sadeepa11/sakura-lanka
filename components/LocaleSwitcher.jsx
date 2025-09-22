@@ -1,6 +1,6 @@
 'use client';
 import {usePathname, useRouter} from 'next/navigation';
-import {useI18n} from '@/components/I18nProvider';
+import {useI18n} from './I18nProvider';
 
 const locales = ['en', 'ja'];
 function replaceLocale(pathname, newLocale) {

@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import LocaleLink from '@/components/LocaleLink';
+import LocaleLink from './LocaleLink';
 
 export default function CategoryCard({title, href, image, caption}) {
   return (

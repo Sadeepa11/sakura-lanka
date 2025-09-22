@@ -1,8 +1,8 @@
 'use client';
 import Image from 'next/image';
-import Badge from '@/components/ui/Badge';
-import LocaleLink from '@/components/LocaleLink';
-import {useI18n} from '@/components/I18nProvider';
+import Badge from './ui/Badge';
+import LocaleLink from './LocaleLink';
+import {useI18n} from './I18nProvider';
 
 export default function ProductCard({item}) {
   const {locale} = useI18n();

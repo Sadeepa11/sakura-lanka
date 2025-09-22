@@ -1,9 +1,9 @@
 'use client';
 
 import {useEffect, useMemo, useState} from 'react';
-import LocaleLink from '/components/LocaleLink';
-import Button from '/components/ui/Button';
-import {useI18n} from '/components/I18nProvider';
+import LocaleLink from './LocaleLink';
+import Button from './ui/Button';
+import {useI18n} from './I18nProvider';
 
 export default function HeroSlider({slides = []}) {
   const {locale} = useI18n();

@@ -1,9 +1,9 @@
 'use client';
 
 import {useMemo, useState} from 'react';
-import Input from '@/components/ui/Input';
-import Select from '@/components/ui/Select';
-import ProductCard from '@/components/ProductCard';
+import Input from './ui/Input';
+import Select from './ui/Select';
+import ProductCard from './ProductCard';
 
 export default function ProductGrid({items, showSubFilter = true}) {
   const [query, setQuery] = useState('');

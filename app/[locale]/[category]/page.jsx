@@ -1,7 +1,7 @@
-import SectionTitle from '@/components/SectionTitle';
-import CategoryCard from '@/components/CategoryCard';
-import ProductGrid from '@/components/ProductGrid';
-import {readJSON} from '@/lib/fsdb';
+import SectionTitle from '../../../components/SectionTitle';
+import CategoryCard from '../../../components/CategoryCard';
+import ProductGrid from '../../../components/ProductGrid';
+import {readJSON} from '../../../lib/fsdb';
 
 export const dynamic = 'force-dynamic';
 
