@@ -54,7 +54,7 @@ export default function Header() {
               <div className="relative">
                 <Image 
                   src="/logo.svg" 
-                  alt="AutoTech & Visa Hub Logo" 
+                  alt="Sakura Lanka Logo" 
                   width={36} 
                   height={36}
                   className="transition-transform group-hover:scale-105"

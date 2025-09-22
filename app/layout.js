@@ -6,7 +6,7 @@ const noto = Noto_Sans_JP({
   display: "swap",
 });
 export const metadata = {
-  title: "AutoTech & Visa Hub",
+  title: "Sakura Lanka",
   description: "Vehicles, bikes, electronics — plus visa & job consulting.",
 };
 export default function RootLayout({ children }) {
