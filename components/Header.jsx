@@ -6,6 +6,7 @@ import LocaleLink from './LocaleLink';
 import LocaleSwitcher from './LocaleSwitcher';
 import Button from './ui/Button';
 import {useI18n} from './I18nProvider';
+import logo from "../public/uploads/logo/logo.jpeg";
 
 export default function Header() {
   const {locale, t} = useI18n();
@@ -49,27 +50,20 @@ export default function Header() {
       >
         <div className="mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-20">
-            {/* Logo Section */}
-            <LocaleLink href="/" className="flex items-center gap-3 group">
+            {/* Logo Section - Now using image only */}
+            <LocaleLink href="/" className="flex items-center group">
               <div className="relative">
                 <Image 
-                  src="/logo.svg" 
+                  src={logo} 
                   alt="Sakura Lanka Logo" 
-                  width={36} 
-                  height={36}
-                  className="transition-transform group-hover:scale-105"
+                  width={140} 
+                  height={48}
+                  className="transition-transform group-hover:scale-105 object-contain"
+                  priority
                 />
                 {scrolled && (
-                  <div className="absolute inset-0 bg-blue-600/10 rounded-full -z-10 animate-pulse" />
+                  <div className="absolute inset-0 bg-blue-600/5 rounded-md -z-10 animate-pulse" />
                 )}
-              </div>
-              <div className="flex flex-col">
-                <span className="font-bold text-xl text-slate-900 tracking-tight leading-tight">
-                 Sakura Lanka
-                </span>
-                <span className="text-xs text-slate-500 -mt-1 hidden sm:block">
-                  Your Gateway to Success
-                </span>
               </div>
             </LocaleLink>
 
@@ -180,8 +174,13 @@ export default function Header() {
             {/* Header */}
             <div className="flex items-center justify-between p-6 border-b border-slate-100">
               <div className="flex items-center gap-3">
-                <Image src="/logo.svg" alt="Logo" width={24} height={24} />
-                <span className="font-semibold text-lg text-slate-900">Menu</span>
+                <Image 
+                  src="/logo.png" 
+                  alt="Logo" 
+                  width={80} 
+                  height={28} 
+                  className="object-contain"
+                />
               </div>
               <Button
                 variant="ghost"

@@ -29,17 +29,17 @@
   },
   {
     "id": "p103",
-    "title": "Ashok Leyland Bus 2015",
-    "title_ja": "アショック・レイランド バス 2015",
+    "title": "Toyota Coaster 2015 (29-seater)",
+    "title_ja": "トヨタ コースター 2015年（29人乗り）",
     "category": "vehicles",
     "subCategory": "bus",
     "type": "used",
     "price": 52000,
     "currency": "USD",
-    "image": "/uploads/products/1758553501069-bd0d9319-02c5-4145-a06c-34bd05bf30cd.webp",
-    "description": "Well-maintained intercity bus, great for school or staff transport.",
-    "description_ja": "整備の行き届いた都市間バス。学校やスタッフ送迎に最適。",
-    "updatedAt": "2025-09-22T16:25:00.000Z"
+    "image": "/uploads/products/1758701700056-703ecc7f-8334-47d2-8821-8f6225da6e97.jpg",
+    "description": "Japanese minibus ideal for school/staff transport. 2015 Toyota Coaster, ~29 seats, turbo‑diesel, AC, power steering, dual AC, ABS, excellent for city and intercity shuttle.",
+    "description_ja": "日本製の小型バス。2015年トヨタ・コースター、約29人乗り、ディーゼルターボ、エアコン・ABS装備。スクール・スタッフ送迎に最適。",
+    "updatedAt": "2025-09-24T08:15:03.784Z"
   },
   {
     "id": "p201",

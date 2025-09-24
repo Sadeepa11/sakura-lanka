@@ -62,5 +62,21 @@
       "phone": "携帯",
       "electrical": "電気機器"
     }
+  },
+
+  "Footer": {
+    "companyDesc": "車両・バイク・電子機器、そしてビザ・求人コンサルティングの信頼できるパートナー。高品質な商品と専門的なサポートで皆さまを支援します。",
+    "contactTitle": "お問い合わせ",
+    "shopTitle": "ショップ",
+    "servicesTitle": "サービス",
+    "contact": {
+      "line": "LINE",
+      "whatsapp": "WhatsApp",
+      "facebook": "Facebook",
+      "gmail": "Gmail"
+    },
+    "rights": "© {year} Sakura Lanka Co.,Ltd. 無断転載禁止。",
+    "poweredBy": "Powered by Modulavers Systems"
   }
+
 }

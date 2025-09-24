@@ -62,5 +62,19 @@
       "phone": "Phone",
       "electrical": "Electrical Equipment"
     }
+  },
+    "Footer": {
+    "companyDesc": "Your trusted partner for vehicles, bikes, electronics, and professional visa & job consulting services. Quality products and expert guidance for your success.",
+    "contactTitle": "Contact Us",
+    "shopTitle": "Shop",
+    "servicesTitle": "Services",
+    "contact": {
+      "line": "LINE",
+      "whatsapp": "WhatsApp",
+      "facebook": "Facebook",
+      "gmail": "Gmail"
+    },
+    "rights": "© {year} Sakura Lanka Co.,Ltd. All rights reserved.",
+    "poweredBy": "Powered by Modulavers Systems"
   }
 }

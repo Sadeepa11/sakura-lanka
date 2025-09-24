@@ -38,9 +38,10 @@
     "title": "Agriculture Vehicle",
     "title_ja": "農業車両",
     "category": "vehicles",
-    "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?auto=format&fit=crop&w=1200&q=60",
+    "image": "/uploads/subcategories/1758701915814-4732a78e-cad6-4bd4-b8b2-4ead154da3a1.png",
     "order": 4,
-    "enabled": true
+    "enabled": true,
+    "updatedAt": "2025-09-24T08:18:41.000Z"
   },
   {
     "id": "s5",

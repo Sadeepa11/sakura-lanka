@@ -3,13 +3,13 @@
     "id": "b1",
     "title": "Find your next vehicle",
     "title_ja": "次の車を見つけよう",
-    "subtitle": "Cars, vans, buses & agriculture",
+    "subtitle": "Cars, vans, buses & agriculture machinery ",
     "subtitle_ja": "車・バン・バス・農業車両",
     "image": "/uploads/banners/1758562446102-9125a20d-29c0-469f-9af6-11d2691cd30f.jpg",
     "link": "/vehicles",
     "order": 1,
     "enabled": true,
-    "updatedAt": "2025-09-22T17:34:09.288Z"
+    "updatedAt": "2025-09-24T08:24:51.365Z"
   },
   {
     "id": "b2",
@@ -22,5 +22,17 @@
     "order": 2,
     "enabled": true,
     "updatedAt": "2025-09-22T17:35:11.651Z"
+  },
+  {
+    "id": "b3",
+    "title": "Computers & Phones",
+    "title_ja": "コンピューターと携帯電話",
+    "subtitle": "Laptops, desktops, smartphones & accessories",
+    "subtitle_ja": "ノートパソコン・デスクトップ・スマートフォン・アクセサリー",
+    "image": "/uploads/banners/1758702168304-54aae32c-73df-4fa7-984b-2b9f6c1ee36e.jpg",
+    "link": "/electronics",
+    "order": 3,
+    "enabled": true,
+    "updatedAt": "2025-09-24T08:23:50.514Z"
   }
 ]
